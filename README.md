@@ -1,2 +1,1 @@
-
-[<p align="center"> <img src="https://file.garden/ZhGfr3tGggibKDqL/rentry.png" width="120">](https://rentry.co/carterhorton)
+[<img alt="rentry" width="100px" src="https://file.garden/ZhGfr3tGggibKDqL/rentry.png" />](https://rentry.co/carterhorton/)
