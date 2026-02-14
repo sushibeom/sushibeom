@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.pinimg.com/736x/1c/8c/05/1c8c0590d9d996e1fc52795ce7ca1eb0.jpg" height="200" >
- 
-‎ 
+ <p align="center">
+ ─────────────────
   ‎ 
 <p align="center"> <a href=https://rentry.co/carterhorton><img src="https://file.garden/ZhGfr3tGggibKDqL/rentry%20texttt.png">‎<a href=https://rentry.co/kaorubutt><img src="https://file.garden/ZhGfr3tGggibKDqL/friends%20textt.png"></a>
 ‎ <p align="center">
